@@ -1,0 +1,33 @@
+_repo: Histoire-du-Consulat-et-de-l-Empire--Vol.-14---20-faisant-suite---l-Histoire-de-la-R-volution__45211
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45211-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Thiers, Adolphe
+    aliases:
+    - Thiers, A. (Adolphe)
+    - Thiers, Marie-Joseph-Louis-Adolphe
+    birthdate: 1797
+    deathdate: 1877
+    gutenberg_agent_id: '3191'
+    url: http://www.gutenberg.org/2009/agents/3191
+    wikipedia: http://en.wikipedia.org/wiki/Adolphe_Thiers
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45211'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+title: 'Histoire du Consulat et de l''Empire, (Vol. 14 / 20)
+
+  faisant suite à l''Histoire de la Révolution Française'
+url: http://www.gutenberg.org/ebooks/45211
